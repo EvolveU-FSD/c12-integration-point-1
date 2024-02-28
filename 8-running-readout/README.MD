@@ -5,4 +5,4 @@ Start from the stopwatch in 6-stopwatch-buttons or 5-beginner-stopwatch or add a
 1. When the timer is running, show the value (in milliseconds) updating in real-time
 
 Tip:
-Use setInterval() to execute a callback function every 50 milliseconds
+Use setInterval() to execute a callback function every 50 milliseconds (or less)

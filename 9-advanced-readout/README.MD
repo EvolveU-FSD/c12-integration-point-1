@@ -1,6 +1,6 @@
 # Advanced readout
 
-Start from the stopwatch in 9-running-readout
+Start from the stopwatch in 8-running-readout
 
 1. Change the readout to show minutes, seconds, and milliseconds while your stopwatch is running
 
